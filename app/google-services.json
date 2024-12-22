@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "680718421047",
+    "project_id": "bshoping-6c584",
+    "storage_bucket": "bshoping-6c584.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680718421047:android:65c38e3cda70604f92c3b2",
+        "android_client_info": {
+          "package_name": "com.blannon_network.bshoping"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGNvieVmNtgmqsPFX-8qcdlbKDzIOdUG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
